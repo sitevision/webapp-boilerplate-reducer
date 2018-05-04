@@ -1,8 +1,8 @@
-# webapp-boilerplate
-Boilerplate code for a simple WebApp
+# webapp-boilerplate-reducer
+Boilerplate code for a WebApp including reducer
 ## Setup
-* `git clone https://github.com/sitevision/webapp-boilerplate.git`
-* `cd webapp-boilerplate`
+* `git clone https://github.com/sitevision/webapp-boilerplate-reducer.git`
+* `cd webapp-boilerplate-reducer`
 * `npm install`
 * `npm run setup`
 ## Building
